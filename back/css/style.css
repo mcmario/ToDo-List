@@ -1,0 +1,62 @@
+.container{
+    /*background: #8a6d3b;*/
+}
+
+.ipad{
+    background: url("../image/ipad_device.png");
+    height: 574px;
+    width: 737px;
+    margin: 20px auto;
+}
+
+.left, .right{
+    height: 431px;
+    width: 284px;
+    margin: 63px 4px 0 78px;
+    float: left;
+    background: #adadad;
+}
+.right{
+    margin-left: 5px;
+}
+
+.head-text{
+    color: red;
+}
+
+.head-text{
+    text-align: center;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.tasks{
+    margin: 5px;
+    color: black;
+    display: inline-block;
+}
+
+.tasks__text{
+    font-weight: bold;
+}
+
+.newTask{
+    margin: 0px auto;
+    width: 300px;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.newTask__inputText{
+    margin: 0px auto;
+    border-radius: 6px;
+    text-align: center;
+}
+.newTask__button{
+    text-align: center;
+    padding: 10px;
+    background: #000000;
+    color: snow;
+    border-radius: 10px;
+}
